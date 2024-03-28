@@ -1,0 +1,7 @@
+Num1 = float(input("Digite o primeiro numero: "))
+Num2 = float(input("Digite o segundo: "))
+Num3 = float(input("Digite o teceiro: "))
+R1 = (Num1 * Num1)
+R2 = (Num2 * Num2)
+R3 = (Num3 * Num3)
+print(f"Resultado do quadrado deles vai ser de: {R1,R2, R3}")

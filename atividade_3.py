@@ -1,0 +1,5 @@
+Numero1 = float(input("Digite um numero: "))
+Numero2 = float(input("Digite outro numero: "))
+Numero3 = float(input("Por fim digite o ultimo numero: "))
+Resultado = (Numero1 + Numero2 + Numero3)
+print(f"Seu resultado eh: {Resultado}")
